@@ -1,12 +1,12 @@
 # Teamcity
-Teamcity server и agent для docker-compose
+Teamcity server Рё agent РґР»СЏ docker-compose
 
 
-**Запуск сервера командой:**
+**Р—Р°РїСѓСЃРє СЃРµСЂРІРµСЂР° РєРѕРјР°РЅРґРѕР№:**
 	run.cmd
-или
+РёР»Рё
 	docker-compose up
 
 
-**Web-интерфейс сервера по адресу:**
+**Web-РёРЅС‚РµСЂС„РµР№СЃ СЃРµСЂРІРµСЂР° РїРѕ Р°РґСЂРµСЃСѓ:**
 <http://localhost:8111/>
