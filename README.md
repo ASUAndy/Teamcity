@@ -3,8 +3,11 @@ Teamcity server и agent для docker-compose
 
 
 **Запуск сервера командой:**
+
 	run.cmd
+
 или
+
 	docker-compose up
 
 
