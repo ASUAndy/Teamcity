@@ -10,6 +10,8 @@ Teamcity server и agent для docker-compose
 
 	docker-compose up
 
+Опция -d позволяет запустить процесс в фоне
+
 
 **Web-интерфейс сервера по адресу:**
 <http://localhost:8111/>
